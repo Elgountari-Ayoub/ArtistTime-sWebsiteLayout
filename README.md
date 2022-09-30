@@ -13,5 +13,4 @@ Amélioration du UX/UI (user experience et user interface)  du site pour le comp
 
 #       FullName        # ismail houssni
 #       TaskTitle       # definition de UX et UI et elements dorgonomie et chart grafique
-#       TaskLink        # https://www.canva.com/design/DAFNoh9K2i8/dqz3KgZgXAKNZn1iLuPE8w/edit
-
+#       TaskLink        # https://www.canva.com/design/DAFNoh9K2i8/KZ71STppHdJqoC4hQC0uYw/view?utm_content=DAFNoh9K2i8&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
